@@ -1,0 +1,6 @@
+## Getting Started
+
+To get started with this project, you will need to install the necessary dependencies. Run the following command:
+
+```bash
+%pip install -U langgraph langchain langchain_openai langchain_experimental langsmith pandas
