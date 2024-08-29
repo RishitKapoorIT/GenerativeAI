@@ -1,0 +1,3 @@
+## Project Overview
+
+This project showcases the use of an agent supervisor to orchestrate multiple agents in a task automation environment using LangChain and LangGraph. By leveraging these tools, we can create an efficient workflow management system that dynamically delegates tasks based on requirements.
