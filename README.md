@@ -16,3 +16,9 @@ If you have any questions, need further assistance, or want to discuss your idea
   [LinkedIn Profile](https://www.linkedin.com/in/rishit-kapoor-33b2b81b0/)
 
 We look forward to collaborating with you and making this project better together!
+
+
+
+[Contributing](../CONTRIBUTING.md)
+
+
