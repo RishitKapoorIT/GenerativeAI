@@ -19,6 +19,6 @@ We look forward to collaborating with you and making this project better togethe
 
 
 
-[Contributing](../CONTRIBUTING.md)
+[Contributing](https://github.com/RishitKapoorIT/GenerativeAI/blob/main/CONTRIBUTING.md)
 
 
